@@ -2,15 +2,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZiZDkwODk2YjA1ZDU1NWI0ZmY5ZmJhY2YyZTEzMDNmNjgxN2U5MyZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width=100 />
 </div>
 
-<div id="badges" align="center">
+<div id="badge" align="center">
   <a href="https://www.kaggle.com/maksimkotenkov">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
