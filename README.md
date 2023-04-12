@@ -51,7 +51,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/HackWagon-red?style=logo&logo=HackWagon&logoColor=white" alt="HackWagon Badge"/>
-          HackWagon22 - telegram-bot for inventarisation only with person's voice and phone
+          HackWagon22 - telegram-bot for inventarisation only with person's voice and smartphone
         </h3>
         <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
       </header>
