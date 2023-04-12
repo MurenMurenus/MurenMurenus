@@ -1,6 +1,6 @@
-<head>
-  <title>MurenMurenus</title>
-</head>
+<header>
+  <h1>My other profiles</h1>
+</header>
 
 
 <div id="header" align="center">
