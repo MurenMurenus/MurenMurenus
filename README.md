@@ -20,6 +20,7 @@
   <ul>
     <li>
       <header>
+        <img src="https://img.shields.io/badge/mts-red?style=logo&logo=mts&logoColor=white" alt="mts Badge"/>
         <h3>МТС ML CUP - predicting person's sex and age with his cookie</h3>
         <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
       </header>
