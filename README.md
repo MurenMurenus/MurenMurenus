@@ -17,10 +17,10 @@
   <header>
     <h1>Projects</h1>
   </header>
-  <p>
-    <p>
+  <ul>
+    <l>
       МТС ML CUP - predicting sex and age of cookie's owner
-    </p>
-    <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
-  </p>
+      <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
+    </l>
+  </ul>
 </article>
