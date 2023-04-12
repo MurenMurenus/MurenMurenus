@@ -60,7 +60,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/Assembly-gray?style=logo&logo=Assembly&logoColor=white" alt="Assembly Badge"/>
-          The game of life on Assembly and Logisim - group project in university
+          The game of life on Assembly and Logisim - group project at university
         </h3>
         <a href="https://github.com/MurenMurenus/TheGameOfLife">Code here</a>
       </header>
