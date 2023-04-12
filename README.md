@@ -23,4 +23,12 @@
       <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
     </li>
   </ul>
+  <ul>
+    <li>
+      TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc..
+      <a href="(https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a>
+      <a href="https://github.com/MurenMurenus/TenderHackBack">Check backend here</a>
+      <a href="https://github.com/MurenMurenus/TenderHackFront">Check frontend here</a>
+    </li>
+  </ul>
 </article>
