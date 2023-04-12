@@ -1,6 +1,6 @@
-<header>
+<div id="header" align="center">
   <h1>My other profiles</h1>
-</header>
+</div>
 
 
 <div id="header" align="center">
