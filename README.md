@@ -21,33 +21,33 @@
     <li>
       <header>
         <h3>МТС ML CUP - predicting person's sex and age with his cookie</h3>
-        <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
+        <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
       </header>
     </li>
     <li>
       <header>
         <h3>TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...</h3>
         <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a> <br>
-        <a href="https://github.com/MurenMurenus/TenderHackBack">Check backend here</a> <br>
-        <a href="https://github.com/MurenMurenus/TenderHackFront">Check frontend here</a> <br>
+        <a href="https://github.com/MurenMurenus/TenderHackBack">Backend here</a> <br>
+        <a href="https://github.com/MurenMurenus/TenderHackFront">Frontend here</a> <br>
       </header>
     </li>
     <li>
       <header>
         <h3>Credit scoring model</h3>
-        <a href="https://github.com/MurenMurenus/CreditScoring">Check code here</a>
+        <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
       </header>
     </li>
     <li>
       <header>
         <h3>HackWagon22 - telegram-bot for inventarisation only with person's voice and phone</h3>
-        <a href="https://github.com/MurenMurenus/HackWagon22">Check code here</a>
+        <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
       </header>
     </li>
     <li>
       <header>
         <h3>The game of life on Assembly and Logisim - group project in university</h3>
-        <a href="https://github.com/MurenMurenus/TheGameOfLife">Check code here</a>
+        <a href="https://github.com/MurenMurenus/TheGameOfLife">Code here</a>
       </header>
     </li>
   </ul>
