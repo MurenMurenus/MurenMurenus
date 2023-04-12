@@ -20,7 +20,7 @@
   <ul>
     <li>
       <header>
-        <h3>МТС ML CUP - predicting person's sex and age with his cookie.</h3>
+        <h3>МТС ML CUP - predicting person's sex and age with his cookie</h3>
         <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
       </header>
     </li>
@@ -34,13 +34,13 @@
     </li>
     <li>
       <header>
-        <h3>Credit scoring model.</h3>
+        <h3>Credit scoring model</h3>
         <a href="https://github.com/MurenMurenus/CreditScoring">Check code here</a>
       </header>
     </li>
     <li>
       <header>
-        <h3>HackWagon22 - .</h3>
+        <h3>HackWagon22 - telegram-bot for inventarisation only with person's voice and phone</h3>
         <a href="https://github.com/MurenMurenus/HackWagon22">Check code here</a>
       </header>
     </li>
