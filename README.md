@@ -19,7 +19,7 @@
   </header>
   <ul>
     <li>
-      МТС ML CUP - predicting sex and age of cookie's owner.
+      МТС ML CUP - predicting person's sex and age with his cookie.
       <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
     </li>
   </ul>
