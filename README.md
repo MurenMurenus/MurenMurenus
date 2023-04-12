@@ -20,6 +20,8 @@
   <ul>
     <li>
       МТС ML CUP - predicting person's sex and age with his cookie.
+    </li>
+    <li>
       <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
     </li>
   </ul>
