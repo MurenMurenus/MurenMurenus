@@ -41,7 +41,7 @@
     <li>
       <header>
         <h3>
-          <img src="https://img.shields.io/badge/CreditScoring-green?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
+          <img src="https://img.shields.io/badge/CreditScoring-yellow?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
           Credit scoring model
         </h3>
         <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
