@@ -24,13 +24,13 @@
         <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
       </header>
     </li>
-  </ul>
-  <ul>
     <li>
-      TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc..
-      <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a>
-      <a href="https://github.com/MurenMurenus/TenderHackBack">Check backend here</a>
-      <a href="https://github.com/MurenMurenus/TenderHackFront">Check frontend here</a>
+      <header>
+        <h3>TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...</h3>
+        <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a>
+        <a href="https://github.com/MurenMurenus/TenderHackBack">Check backend here</a>
+        <a href="https://github.com/MurenMurenus/TenderHackFront">Check frontend here</a>
+      </header>
     </li>
   </ul>
 </article>
