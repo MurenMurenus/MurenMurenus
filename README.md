@@ -44,5 +44,11 @@
         <a href="https://github.com/MurenMurenus/HackWagon22">Check code here</a>
       </header>
     </li>
+    <li>
+      <header>
+        <h3>The game of life on Assembly and Logisim - group project in university</h3>
+        <a href="https://github.com/MurenMurenus/TheGameOfLife">Check code here</a>
+      </header>
+    </li>
   </ul>
 </article>
