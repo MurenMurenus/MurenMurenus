@@ -32,5 +32,17 @@
         <a href="https://github.com/MurenMurenus/TenderHackFront">Check frontend here</a> <br>
       </header>
     </li>
+    <li>
+      <header>
+        <h3>Credit scoring model.</h3>
+        <a href="https://github.com/MurenMurenus/CreditScoring">Check code here</a>
+      </header>
+    </li>
+    <li>
+      <header>
+        <h3>HackWagon22 - .</h3>
+        <a href="https://github.com/MurenMurenus/HackWagon22">Check code here</a>
+      </header>
+    </li>
   </ul>
 </article>
