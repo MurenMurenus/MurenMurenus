@@ -18,9 +18,9 @@
     <h1>Projects</h1>
   </header>
   <ul>
-    <l>
-      МТС ML CUP - predicting sex and age of cookie's owner
-      <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
-    </l>
+    <li>
+      МТС ML CUP - predicting sex and age of cookie's owner.
+      <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
+    </li>
   </ul>
 </article>
