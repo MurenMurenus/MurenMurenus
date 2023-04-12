@@ -41,6 +41,7 @@
     <li>
       <header>
         <h3>
+          <img src="https://img.shields.io/badge/CreditScoring-blue?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
           Credit scoring model
         </h3>
         <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
@@ -49,6 +50,7 @@
     <li>
       <header>
         <h3>
+          <img src="https://img.shields.io/badge/HackWagon-blue?style=logo&logo=HackWagon&logoColor=white" alt="HackWagon Badge"/>
           HackWagon22 - telegram-bot for inventarisation only with person's voice and phone
         </h3>
         <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
@@ -57,6 +59,7 @@
     <li>
       <header>
         <h3>
+          <img src="https://img.shields.io/badge/Assembly-blue?style=logo&logo=Assembly&logoColor=white" alt="Assembly Badge"/>
           The game of life on Assembly and Logisim - group project in university
         </h3>
         <a href="https://github.com/MurenMurenus/TheGameOfLife">Code here</a>
