@@ -19,10 +19,10 @@
   </header>
   <ul>
     <li>
-      МТС ML CUP - predicting person's sex and age with his cookie.
-    </li>
-    <li>
-      <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
+      <header>
+        <h2>МТС ML CUP - predicting person's sex and age with his cookie.</h2>
+        <a href="https://github.com/MurenMurenus/CookieDeanonymization">Check code here</a>
+      </header>
     </li>
   </ul>
   <ul>
