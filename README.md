@@ -29,7 +29,10 @@
     </li>
     <li>
       <header>
-        <h3>TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...</h3>
+        <h3>
+          <img src="https://img.shields.io/badge/TenderHack-blue?style=logo&logo=TenderHack&logoColor=white" alt="TenderHack Badge"/>
+          TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...
+        </h3>
         <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a> <br>
         <a href="https://github.com/MurenMurenus/TenderHackBack">Backend here</a> <br>
         <a href="https://github.com/MurenMurenus/TenderHackFront">Frontend here</a> <br>
@@ -37,19 +40,25 @@
     </li>
     <li>
       <header>
-        <h3>Credit scoring model</h3>
+        <h3>
+          Credit scoring model
+        </h3>
         <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
       </header>
     </li>
     <li>
       <header>
-        <h3>HackWagon22 - telegram-bot for inventarisation only with person's voice and phone</h3>
+        <h3>
+          HackWagon22 - telegram-bot for inventarisation only with person's voice and phone
+        </h3>
         <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
       </header>
     </li>
     <li>
       <header>
-        <h3>The game of life on Assembly and Logisim - group project in university</h3>
+        <h3>
+          The game of life on Assembly and Logisim - group project in university
+        </h3>
         <a href="https://github.com/MurenMurenus/TheGameOfLife">Code here</a>
       </header>
     </li>
