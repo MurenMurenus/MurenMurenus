@@ -1,47 +1,5 @@
 <head>
-  <meta charset="UTF-8">
-  <title>My GitHub Projects</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-W+jgG+0zWTwvdJahb03+OWuz21lBlcaatXp6G7xq3Wfbl70Zoh6aM+y2Mslzdx8mf0+RxnRk/pI9Q+1V8ZdC5Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #24292e;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-    }
-    .icon {
-      margin-right: 5px;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    .project-name {
-      font-size: 20px;
-      font-weight: bold;
-      margin-bottom: 5px;
-    }
-    .description {
-      font-size: 16px;
-      color: #555;
-    }
-  </style>
+  <title>MurenMurenus</title>
 </head>
 
 
