@@ -31,7 +31,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/Neural%20network-blue?style=logo&logo=MTS&logoColor=white" alt="Network Badge"/>
-          Defocuse detection - a neural network to check if image is defocused or motion-blured.
+          Defocuse detection - a neural network to check if image is defocused or motion-blurred.
         </h3>
         <a href="https://github.com/MurenMurenus/Defocuse-detection">Code here</a>
       </header>
