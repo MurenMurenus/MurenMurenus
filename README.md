@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://codeforces.com/profile/MurenMurenus">
-    <img src="https://img.shields.io/badge/Code-forces-blue?style=logo&logo=Codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
 </div>
 
