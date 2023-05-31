@@ -12,7 +12,13 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://codeforces.com/profile/MurenMurenus">
-    <img src="https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=Codeforces"/>
+    <img src="https://img.shields.io/badge/Code-forces-blue?style=for-the-badge&logo=Codeforces" alt="Codeforces Badge"/>
+  </a>
+</div>
+
+<div id="badge" align="center">
+  <a href="https://drive.google.com/file/d/1hSfdVqqHGVzBENI2AESyDQXTswwSVwnR/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge" alt="CV Badge"/>
   </a>
 </div>
 
