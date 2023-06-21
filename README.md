@@ -87,5 +87,5 @@
 </article>
 
 <div id="badge" align="center">
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murenmurenus&layout=pie)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murenmurenus&layout=pie)
 </div>
