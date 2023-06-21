@@ -22,7 +22,7 @@
 
 <div id="badge" align="center">
   <a href="https://drive.google.com/file/d/1hSfdVqqHGVzBENI2AESyDQXTswwSVwnR/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-red?style=for-the-badge" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/My CV-red?style=for-the-badge" alt="CV Badge"/>
   </a>
 </div>
 
