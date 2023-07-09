@@ -47,7 +47,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/NLP-blue?style=logo&logo=NLP&logoColor=white%22%20alt=%22nlp%20Badge" alt="NLP Badge"/>
-          Handmade tf-idf vectorizer - convert a collection of raw documents to a matrix of TF-IDF features.
+          CBOW model for computing word embeddings.
         </h3>
         <a href="https://github.com/MurenMurenus/Word2Vec">Code here</a>
       </header>
