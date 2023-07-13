@@ -55,6 +55,15 @@
     <li>
       <header>
         <h3>
+          <img src="https://img.shields.io/badge/NLP-blue?style=logo&logo=NLP&logoColor=white%22%20alt=%22nlp%20Badge" alt="NLP Badge"/>
+          RNN that classifies texts with already computed word embeddings (https://github.com/MurenMurenus/Word2Vec).
+        </h3>
+        <a href="https://github.com/MurenMurenus/RNN-Classifier">Code here</a>
+      </header>
+    </li>
+    <li>
+      <header>
+        <h3>
           <img src="https://img.shields.io/badge/MTS-red?style=logo&logo=MTS&logoColor=white" alt="mts Badge"/>
           МТС ML CUP - predicting person's gender and age with his cookie
         </h3>
