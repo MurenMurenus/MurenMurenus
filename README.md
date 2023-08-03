@@ -1,5 +1,5 @@
-# Hey! I'm an ML/DS student at the Novosibirsk State University 👋
-  ### I'm an ML developer from Novosibirsk and I really love participating in hackathones or shifts. On my GitHub you can see projects that have been successfully developed by my team and me.
+# Hey! I'm an ML/Backend student at the Novosibirsk State University 👋
+  ### I'm a developer from Novosibirsk and I really love participating in hackathones or shifts. On my GitHub you can see projects that have been successfully developed by my team and me.
   ## Enjoy! 🙌
 
 <div id="header" align="center">
