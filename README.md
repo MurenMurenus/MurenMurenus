@@ -82,6 +82,22 @@
     <li>
       <header>
         <h3>
+          <img src="https://img.shields.io/badge/CreditScoring-yellow?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
+          Credit scoring model
+        </h3>
+        <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
+      </header>
+    </li>
+    
+  </ul>
+</article>
+
+# Backend Projects 💻
+<article>
+  <ul>
+    <li>
+      <header>
+        <h3>
           <img src="https://img.shields.io/badge/TenderHack-blue?style=logo&logo=TenderHack&logoColor=white" alt="TenderHack Badge"/>
           TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...
         </h3>
@@ -93,21 +109,18 @@
     <li>
       <header>
         <h3>
-          <img src="https://img.shields.io/badge/CreditScoring-yellow?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
-          Credit scoring model
-        </h3>
-        <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
-      </header>
-    </li>
-    <li>
-      <header>
-        <h3>
           <img src="https://img.shields.io/badge/HackWagon-red?style=logo&logo=HackWagon&logoColor=white" alt="HackWagon Badge"/>
           HackWagon22 - telegram-bot for inventarisation only with person's voice and smartphone
         </h3>
         <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
       </header>
     </li>
+  </ul>
+</article>
+
+# Other Projects 💻
+<article>
+  <ul>
     <li>
       <header>
         <h3>
