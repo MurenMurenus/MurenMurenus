@@ -118,7 +118,7 @@
   </ul>
 </article>
 
-# Other Projects 💻
+# University Projects 💻
 <article>
   <ul>
     <li>
