@@ -88,15 +88,6 @@
         <a href="https://github.com/MurenMurenus/Defocuse-detection">Code here</a>
       </header>
     </li>
-    <li>
-      <header>
-        <h3>
-          <img src="https://img.shields.io/badge/CreditScoring-yellow?style=logo&logo=CreditScoring&logoColor=white" alt="CreditScoring Badge"/>
-          Credit scoring model
-        </h3>
-        <a href="https://github.com/MurenMurenus/CreditScoring">Code here</a>
-      </header>
-    </li>
     
   </ul>
 </article>
@@ -113,15 +104,6 @@
         <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a> <br>
         <a href="https://github.com/MurenMurenus/TenderHackBack">Backend here</a> <br>
         <a href="https://github.com/MurenMurenus/TenderHackFront">Frontend here</a> <br>
-      </header>
-    </li>
-    <li>
-      <header>
-        <h3>
-          <img src="https://img.shields.io/badge/HackWagon-red?style=logo&logo=HackWagon&logoColor=white" alt="HackWagon Badge"/>
-          HackWagon22 - telegram-bot for inventarisation only with person's voice and smartphone
-        </h3>
-        <a href="https://github.com/MurenMurenus/HackWagon22">Code here</a>
       </header>
     </li>
   </ul>
