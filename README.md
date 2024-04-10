@@ -38,7 +38,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/CV-red?style=logo&logo=CV&logoColor=red%22%20alt=%22nlp%20Badge" alt="CV Badge"/>
-          Sign Language Translator with the use of EfficientNet neural network and Telegram Bot.
+          Sign Language Translator with the use of EfficientNet neural network and Telegram Bot
         </h3>
         <a href="https://github.com/Maksim-Kotenkov/Sign-language-translator">Link to the project</a>
       </header>
@@ -47,7 +47,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/CV-red?style=logo&logo=CV&logoColor=red%22%20alt=%22nlp%20Badge" alt="CV Badge"/>
-          A tool for editing photos with CV methods, like detecting and blurring faces, masking, etc..
+          A tool for editing photos with CV methods, like detecting and blurring faces, masking, etc...
         </h3>
         <a href="https://github.com/CV-goes-frr/CVIP">Link to the project</a>
       </header>
@@ -56,7 +56,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/NLP-blue?style=logo&logo=NLP&logoColor=white%22%20alt=%22nlp%20Badge" alt="NLP Badge"/>
-          Handmade tf-idf vectorizer - convert a collection of raw documents to a matrix of TF-IDF features.
+          Handmade tf-idf vectorizer - convert a collection of raw documents to a matrix of TF-IDF features
         </h3>
         <a href="https://github.com/MurenMurenus/tf-idf-vectorizer">Code here</a>
       </header>
@@ -74,7 +74,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/NLP-blue?style=logo&logo=NLP&logoColor=white%22%20alt=%22nlp%20Badge" alt="NLP Badge"/>
-          RNN that classifies texts with already computed word embeddings (https://github.com/MurenMurenus/Word2Vec).
+          RNN that classifies texts with already computed word embeddings (https://github.com/MurenMurenus/Word2Vec)
         </h3>
         <a href="https://github.com/MurenMurenus/RNN-Classifier">Code here</a>
       </header>
@@ -92,7 +92,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/Neural%20network-yellow?style=logo&logo=MTS&logoColor=white" alt="Network Badge"/>
-          Defocuse detection - a neural network to check if image is defocused or motion-blurred.
+          Defocuse detection - a neural network to check if image is defocused or motion-blurred
         </h3>
         <a href="https://github.com/MurenMurenus/Defocuse-detection">Code here</a>
       </header>
