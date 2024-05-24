@@ -28,8 +28,8 @@
 
 
 # Statistics 📈
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksim-Kotenkov&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maksim-Kotenkov&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MurenMurenus&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurenMurenus&theme=tokyonight)
 
 # ML Projects 💻
 <article>
