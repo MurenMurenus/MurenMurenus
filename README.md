@@ -1,4 +1,4 @@
-# Hey! I'm an ML/Backend student at the Novosibirsk State University 👋
+# Hey! I'm a student at the Novosibirsk State University 👋
   ### On my GitHub you can see some projects that have been developed by my team and me.
   ## Enjoy! 🙌
 
