@@ -47,7 +47,7 @@
       <header>
         <h3>
           <img src="https://img.shields.io/badge/CV-red?style=logo&logo=CV&logoColor=red%22%20alt=%22nlp%20Badge" alt="CV Badge"/>
-          A tool for editing photos with CV methods, like detecting and blurring faces, masking, etc...
+          A tool for editing photos/videos with CV methods, like detecting and blurring faces, masking, etc...
         </h3>
         <a href="https://github.com/CV-goes-frr/CVIP">Link to the project</a>
       </header>
