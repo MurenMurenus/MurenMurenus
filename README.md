@@ -79,41 +79,5 @@
         <a href="https://github.com/MurenMurenus/RNN-Classifier">Code here</a>
       </header>
     </li>
-    <li>
-      <header>
-        <h3>
-          <img src="https://img.shields.io/badge/MTS-red?style=logo&logo=MTS&logoColor=white" alt="mts Badge"/>
-          МТС ML CUP - predicting person's gender and age with his cookie
-        </h3>
-        <a href="https://github.com/MurenMurenus/CookieDeanonymization">Code here</a>
-      </header>
-    </li>
-    <li>
-      <header>
-        <h3>
-          <img src="https://img.shields.io/badge/Neural%20network-yellow?style=logo&logo=MTS&logoColor=white" alt="Network Badge"/>
-          Defocuse detection - a neural network to check if image is defocused or motion-blurred
-        </h3>
-        <a href="https://github.com/MurenMurenus/Defocuse-detection">Code here</a>
-      </header>
-    </li>
-    
-  </ul>
-</article>
-
-# Backend Projects 💻
-<article>
-  <ul>
-    <li>
-      <header>
-        <h3>
-          <img src="https://img.shields.io/badge/TenderHack-blue?style=logo&logo=TenderHack&logoColor=white" alt="TenderHack Badge"/>
-          TenderHack 2023 (St. Petersburg) - Service for vendor-company. Statistics showcase, special metrics, etc...
-        </h3>
-        <a href="https://github.com/MurenMurenus/TenderHackML-DS_API">Check code for operating database, calculating metrics and working with model here</a> <br>
-        <a href="https://github.com/MurenMurenus/TenderHackBack">Backend here</a> <br>
-        <a href="https://github.com/MurenMurenus/TenderHackFront">Frontend here</a> <br>
-      </header>
-    </li>
   </ul>
 </article>
